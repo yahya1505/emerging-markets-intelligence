@@ -2,10 +2,4 @@
 
 `Emerging_Markets_Intelligence_Risk_Monitor.pbix` is the report artifact included in this repository.
 
-Before publishing, open it in Power BI Desktop and verify:
-- data-source configuration does not expose credentials;
-- all three pages render correctly;
-- slicers, tooltips, and conditional formatting work;
-- the report can be refreshed against the documented PostgreSQL schema.
-
-A PBIX file stores report/model configuration and may contain cached data. Review it before publishing if any content is sensitive.
+Link that can be accessed: https://app.powerbi.com/groups/me/reports/107f05eb-c4af-4168-8203-53d6e487f358?ctid=04bcfa17-af59-4de8-b878-2b1237b62c88&pbi_source=linkShare
