@@ -1,0 +1,21 @@
+country_code,country_name,indicator_code,indicator_name,year,value,source,retrieved_at_utc
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,5.03257477088519,World Bank Indicators API,2026-10-21T14:51:26.636148+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,5.04883117855516,World Bank Indicators API,2026-10-21T14:51:26.636173+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,5.30719722664799,World Bank Indicators API,2026-10-21T14:51:26.636181+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,3.70288562827751,World Bank Indicators API,2026-10-21T14:51:26.636186+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-2.06551182934165,World Bank Indicators API,2026-10-21T14:51:26.636191+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,5.01928768046282,World Bank Indicators API,2026-10-21T14:51:26.636195+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,5.17429153955024,World Bank Indicators API,2026-10-21T14:51:26.636199+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,5.06978590134916,World Bank Indicators API,2026-10-21T14:51:26.636203+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,5.03306918280177,World Bank Indicators API,2026-10-21T14:51:26.636207+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.87632230022123,World Bank Indicators API,2026-10-21T14:51:26.636212+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2014,5.006668425755,World Bank Indicators API,2026-10-21T14:51:26.636220+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2013,5.5572636889101,World Bank Indicators API,2026-10-21T14:51:26.636225+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2012,6.03005065305615,World Bank Indicators API,2026-10-21T14:51:26.636229+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2011,6.16978420771008,World Bank Indicators API,2026-10-21T14:51:26.636234+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2010,6.22385418062366,World Bank Indicators API,2026-10-21T14:51:26.636238+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2009,4.62887118256153,World Bank Indicators API,2026-10-21T14:51:26.636246+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2008,6.01370360009123,World Bank Indicators API,2026-10-21T14:51:26.636251+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2007,6.34502222667214,World Bank Indicators API,2026-10-21T14:51:26.636255+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2006,5.50095178520348,World Bank Indicators API,2026-10-21T14:51:26.636263+00:00
+IDN,Indonesia,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2005,5.69257130383384,World Bank Indicators API,2026-10-21T14:51:26.636267+00:00

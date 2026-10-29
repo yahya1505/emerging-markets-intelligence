@@ -1,0 +1,8 @@
+﻿indicator_code,indicator_name,unit,business_dimension
+NY.GDP.MKTP.KD.ZG,GDP growth,Annual percent,Growth
+NY.GDP.PCAP.KD.ZG,GDP per capita growth,Annual percent,Growth
+FP.CPI.TOTL.ZG,Inflation,Annual percent,Macroeconomic stability
+SL.UEM.TOTL.ZS,Unemployment,Percent of labor force,Labor market
+BN.CAB.XOKA.GD.ZS,Current account balance,Percent of GDP,External vulnerability
+BX.KLT.DINV.WD.GD.ZS,FDI net inflows,Percent of GDP,Investment
+NE.TRD.GNFS.ZS,Trade,Percent of GDP,External openness
