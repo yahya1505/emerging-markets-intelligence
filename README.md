@@ -183,11 +183,3 @@ See [Data Quality and Limitations](docs/data_quality_and_limitations.md).
 - [World Bank World Development Indicators](https://databank.worldbank.org/source/world-development-indicators)
 - [World Bank Indicators API](https://api.worldbank.org/)
 
-## Author
-
-**Richard Yahya** · Information Systems
-
-Areas of interest: Data Analytics, Business Intelligence, Business Analysis, and ERP.
-
-- LinkedIn: `Add your LinkedIn URL`
-- Portfolio: `Add your portfolio URL`
